@@ -23,8 +23,6 @@
 "This day of week is disabled.": "Este día de la semana está deshabilitado.",
 "Keyword Zones Cache enabled": "Caché de zonas por palabra clave habilitada",
 "Incorrect username / password": "Nombre de usuario/contraseña incorrecta",
-"Raised when "Monitored" only": "Generado solo cuando está "Monitoreado"",
-"Raised when "Monitored" only": "Generado solo cuando está "Monitoreado"",
 "EjecutarCell value has been edited": "Ejecutar (valor de celda editado)",
 "Entró enCell value has been edited": "Entró en (valor de celda editado)",
 "This Fecha canNot be selected.": "Esta fecha no se puede seleccionar.",
@@ -35,7 +33,7 @@
 "Show/Hide Hotspots Layer": "Mostrar/Ocultar capa de puntos de acceso",
 "Previous Month (Control+Left)": "Mes anterior (Control + Izquierda)",
 "Select an entry from the list": "Selecciona una entrada de la lista",
-"Predeterminado Profile": "Perfil predeterminado", // Mezcla aclarada
+"Predeterminado Profile": "Perfil predeterminado",
 "Additional Customers field set": "Sección de Clientes Adicionales",
 "Select a Fecha from the list": "Seleccione una Fecha de la lista",
 "Select a Fecha from the list": "Selecciona una fecha de la lista",
@@ -139,7 +137,6 @@
 "GSM Strength": "Intensidad GSM",
 "GPS Strength": "Intensidad GPS",
 "contributors": "colaboradores",
-// Mensajes de error (posibles)
 "Close Alert": "Cerrar alerta",
 "Attributions": "Atribuciones",
 "Pin Login": "Inicio con PIN",
