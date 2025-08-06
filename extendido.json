@@ -184,7 +184,7 @@
 "Yes": "Sí",
 "No": "No",
 "Either your access is restricted / your session has timed out": "Su acceso está restringido / su sesión ha expirado",
-"< (Tracker)": "(GeoLocalizador)",
-"< (OBC Dock (SmartTag))": "(Cargador de (GeoLocalizador))",
-"< (On-body Charger)": "(Bateria de Carga)"
+"< (Tracker) >": "(GeoLocalizador)",
+"< (OBC Dock (SmartTag)) >": "(Cargador de (GeoLocalizador))",
+"< (On-body Charger) >": "(Bateria de Carga)"
 }
