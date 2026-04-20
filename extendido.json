@@ -20,6 +20,8 @@
 "A visit was scheduled when this Breach occurred": "Se había programado una visita cuando ocurrió esta brecha",
 "Cancelled": "Cancelado",
 "Completed": "Completado",
+"Are you sure you wish a add another?": "Estás segura de que deseas añadir otra?",
+"There is an open Visit for this Wearer:": "Hay una visita abierta para esta usuaria:",
 "FO attended - Issue with previous install (FO error)": "FO asistió - Problema con instalación previa (error del oficial)",
 "FO attended - Kit replaced due to kit failure": "FO asistió - Kit reemplazado debido a falla del kit",
 "FO attended - Kit replaced due to offender damage/loss": "FO asistió - Kit reemplazado por daño/pérdida causada por el usuario",
